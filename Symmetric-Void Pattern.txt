@@ -43,10 +43,10 @@ void symmetry(int n) {
 
 }
 
-
-Sample Input 1:
+Input:
 3
-Sample Output 1:
+
+Output:
 * * * * * * 
 * *     * * 
 *         * 
