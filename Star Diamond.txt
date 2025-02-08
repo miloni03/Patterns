@@ -37,6 +37,9 @@ void nStarDiamond(int n) {
     }
 }
 
+Input:
+3 
+
 Output: 
 
   *
